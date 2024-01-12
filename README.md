@@ -12,16 +12,17 @@ Bem-vindo ao My Clock! Este é um pequeno projeto de um cronômetro de tarefas.
 
 ## Visão Geral
 
-Este projeto tem como finalidade desenvolver um site de criação e organização de times/equipes dinamicamente, de acordo com a finalidade do usuário. Aqui você poderá criar times, membros desses times, favoritar membros, excluir membros, personalizar as cores dos times e o que mais sua criatividade permitir.
+Este projeto é uma aplicação de lista de tarefas (to-do list) com cronômetro construída em React, utilizando TypeScript e Sass/SCSS para estilização. A aplicação inclui funcionalidades como adicionar tarefas, associa-las num cronômetro e conclui-las automaticamente no final do timer.
 
-Você também pode conferir a demonstração ao vivo do Organo [aqui!](https://organo-project-jet.vercel.app)
+Você também pode conferir a demonstração ao vivo do My Clock [aqui!](https://my-clock-five.vercel.app/)
 
 ## Tecnologias Utilizadas e Funcionalidades
 
-- **HTML5 e CSS3:** Para a estrutura e estilo do site.
-- **JavaScript e React:** Para interatividade.
+- **React:** Biblioteca JavaScript para construção de interfaces de usuário reativas e componentizadas.
+- **TypeScript:** Extensão do JavaScript que adiciona tipagem estática ao código, melhorando a robustez e a manutenibilidade.
+- **Sass/SCSS:** Pré-processador CSS utilizado para estilizar a aplicação de forma modularizada.
 - **Utilização de Hooks:** Aproveitamento de conceitos de Hooks do React para gerenciar estado e ciclo de vida dos componentes.
-- **React-icons:** Adição de ícones personalizados aos componentes.
+- **Outras skills:** Utilização de functions, arrow functions, list components, conditional rendering, interface, hooks...
 
 ## Como Entrar em Contato
 
@@ -39,8 +40,8 @@ Fique à vontade para me contatar se tiver alguma pergunta, ideia ou oportunidad
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/viniciussis/Organo_Project.git`
-2. Entre no diretório do projeto: `cd Organo_Project`
+1. Clone o repositório: `git clone https://github.com/viniciussis/My_Clock.git`
+2. Entre no diretório do projeto: `cd My_Clock`
 3. Instale as dependências: `npm install`
 
 ## Como Usar
