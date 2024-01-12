@@ -1,46 +1,60 @@
-# Getting Started with Create React App
+# My Clock
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo ao My Clock! Este é um pequeno projeto de um cronômetro de tarefas. 
 
-## Available Scripts
+## Conteúdo
 
-In the project directory, you can run:
+- [Visão Geral](#visão-geral)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Entrar em Contato](#como-entrar-em-contato)
+- [Instalação e Pré-requisitos](#pré-requisitos)
+- [Licença](#licença)
 
-### `npm start`
+## Visão Geral
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Este projeto tem como finalidade desenvolver um site de criação e organização de times/equipes dinamicamente, de acordo com a finalidade do usuário. Aqui você poderá criar times, membros desses times, favoritar membros, excluir membros, personalizar as cores dos times e o que mais sua criatividade permitir.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Você também pode conferir a demonstração ao vivo do Organo [aqui!](https://organo-project-jet.vercel.app)
 
-### `npm test`
+## Tecnologias Utilizadas e Funcionalidades
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **HTML5 e CSS3:** Para a estrutura e estilo do site.
+- **JavaScript e React:** Para interatividade.
+- **Utilização de Hooks:** Aproveitamento de conceitos de Hooks do React para gerenciar estado e ciclo de vida dos componentes.
+- **React-icons:** Adição de ícones personalizados aos componentes.
 
-### `npm run build`
+## Como Entrar em Contato
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Estou sempre aberto para conversar e colaborar em projetos interessantes. Você pode entrar em contato comigo pelos seguintes meios:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Email: vinicius01012@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/viniciussis](URL)
+- GitHub: [https://github.com/viniciussis](URL)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fique à vontade para me contatar se tiver alguma pergunta, ideia ou oportunidade de colaboração!
 
-### `npm run eject`
+## Pré-requisitos
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Node.js e npm instalados
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Instalação
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. Clone o repositório: `git clone https://github.com/viniciussis/Organo_Project.git`
+2. Entre no diretório do projeto: `cd Organo_Project`
+3. Instale as dependências: `npm install`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Como Usar
 
-## Learn More
+1. Inicie o aplicativo: `npm start`
+2. Abra o navegador e acesse `http://localhost:3000`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contribuindo
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Sinta-se à vontade para contribuir ou abrir issues para sugestões e correções de bugs. Pull requests são bem-vindos!
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+**Desenvolvido por Vinícius Silva Santos**
